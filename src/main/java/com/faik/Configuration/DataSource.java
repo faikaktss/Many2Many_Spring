@@ -1,4 +1,4 @@
-package com.faik.Configüration;
+package com.faik.Configuration;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
